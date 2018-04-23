@@ -8,7 +8,7 @@ const help = {
        {
          title: '/resources is a command fetch recommended CodeBuddies resources on various topics.',
          text: [ '* /resources : Prints this message as a DM.',
-                 '* /resources `list`: Prints a list of all available resources.',
+                 '* /resources `list`: Prints a list of all available resources, separated by language.',
                  '* /resources `post [resource language]`: Sends _"getting started in [resource x]"_ message as a DM to the user who typed it.',
                  '* /resources `post [resource language] [level]`:  Sends _[resource x] [level y]_ message as a DM to the user who typed it.',
                  '* /resources `post [resource language] [level] @username`: Sends the result of the command (resource language, etc._) as a DM to the @user specified.',

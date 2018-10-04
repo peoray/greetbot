@@ -1,0 +1,10 @@
+resource-number: 4
+language: 'html-css'
+level: 'beginner'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "course"
+media-icon: ":school_satchel:"
+media-link: "<https://www.codecademy.com/catalog/language/html-css>|Learn HTML/CSS (Codecademy)"
+media-desc: "Courses from Codecademy.  _HTML is the foundation behind all web pages. It's used to add structure and form to text, images, and more. CSS is the language used to style HTML content. In these courses, you'll learn the fundamentals of both languages so that you can create visually appealing web pages._"
+community-rating: ":heavy_plus:"

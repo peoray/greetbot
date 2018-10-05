@@ -6,6 +6,12 @@ const sortArguments = (reqArguments) => {
   reqArguments.forEach(argument => {
     switch (argument.toLowerCase()) {
       // languages sort
+      case 'html-css':
+      case 'html':
+      case 'css': {
+        languages.push('html-css');
+        break;
+      }
       case 'javascript':
       case 'js': {
         languages.push('javascript');

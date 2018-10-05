@@ -1,0 +1,10 @@
+resource-number: 4
+language: 'html-css'
+level: 'beginner'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "course"
+media-icon: ":school_satchel:"
+media-link: "<https://www.codecademy.com/catalog/language/html-css|Learn HTML/CSS>"
+media-desc: "*Codecademy* _In these courses, you'll learn the fundamentals of HTML and CSS so that you can create visually appealing web pages._"
+community-rating: ":heavy_plus:"

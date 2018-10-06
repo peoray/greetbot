@@ -1,0 +1,10 @@
+resource-number: 2
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "tutorial"
+media-icon: ":school_satchel:"
+media-link: "<https://learn.shayhowe.com/advanced-html-css/|Learn to Code Advanced HTML & CSS>"
+media-desc: "*Shay Howe* _A follow-up to Learn to Code HTML & CSS. This guide covers responsive web design, preprocessors, jQuery, and more need-to-know web design topics._"
+community-rating: ":heavy_plus:"

@@ -1,0 +1,10 @@
+resource-number: 6
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "video"
+media-icon: ":cinema:"
+media-link: "<https://www.youtube.com/watch?v=8vcSr1yVvXQ|A Complete Guide to Flexbox"
+media-desc: "*Net Ninja* _This is a 12-part video tutorial that walks you through the world of flexbox. The ninja speaking in the video is very clear and detailed with explanations so you can easily follow along as he codes. He’s got other great tutorials on his channel so I definitely recommend subscribing._"
+community-rating: ":heavy_plus:"

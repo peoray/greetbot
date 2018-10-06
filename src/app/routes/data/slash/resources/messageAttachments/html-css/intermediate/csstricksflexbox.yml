@@ -1,0 +1,10 @@
+resource-number: 5
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "tutorial"
+media-icon: ":school_satchel:"
+media-link: "<https://css-tricks.com/snippets/css/a-guide-to-flexbox/|A Complete Guide to Flexbox"
+media-desc: "*CSS Tricks* _This is a fun guide for flexbox which was published on the CSS-tricks website and offers a clear introduction with many illustrative examples on how to use flexbox for layout and alignment needs. The website also has a thorough collection of CSS tricks you can apply to any project._"
+community-rating: ":heavy_plus:"

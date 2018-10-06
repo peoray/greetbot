@@ -1,0 +1,10 @@
+resource-number: 4
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "website"
+media-icon: ":link:"
+media-link: "<https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning|MDN web docs - HTML>"
+media-desc: "*MDN* _Once you’ve taken a basic course on HTML & CSS and have had some practice, I recommend visiting Mozilla, which has some excellent references and guides to expand your vocabulary. They have been particularly helpful with understanding browser compatibility._"
+community-rating: ":heavy_plus:"

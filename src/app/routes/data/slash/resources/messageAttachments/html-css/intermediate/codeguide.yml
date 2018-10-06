@@ -1,0 +1,10 @@
+resource-number: 1
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "website"
+media-icon: ":link:"
+media-link: "<http://mdo.github.io/code-guide|Code Guide by @mdo>"
+media-desc: "Standards for developing flexible, durable, and sustainable HTML and CSS. _An easy to read online guide on HTML and CSS syntax with some JavaScript concepts explained. Great for those who only have 10-15 minutes a day to spend on studying code._"
+community-rating: ":heavy_plus:"

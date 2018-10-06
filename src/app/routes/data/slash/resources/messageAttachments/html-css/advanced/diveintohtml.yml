@@ -1,0 +1,10 @@
+resource-number: 1
+language: 'html-css'
+level: 'advanced'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "website"
+media-icon: ":link:"
+media-link: "<http://diveintohtml5.info/|Dive into HTML5>"
+media-desc: "_A community driven guide to HTML5 syntax and concepts. Also discusses video, accessibility, and APIs_"
+community-rating: ":heavy_plus:"

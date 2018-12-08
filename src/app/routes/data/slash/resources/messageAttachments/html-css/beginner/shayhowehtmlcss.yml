@@ -1,0 +1,10 @@
+resource-number: 3
+language: 'html-css'
+level: 'beginner'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "tutorial"
+media-icon: ":school_satchel:"
+media-link: "<https://learn.shayhowe.com/html-css/|Learn to Code HTML & CSS>"
+media-desc: "*Shay Howe* _Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics._"
+community-rating: ":heavy_plus:"

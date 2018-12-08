@@ -1,0 +1,10 @@
+resource-number: 1
+language: 'html-css'
+level: 'advanced'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "website"
+media-icon: ":link:"
+media-link: "<https://cssguidelin.es/|CSS Guidelines>"
+media-desc: "_This is a very thorough CSS style guide meant to give advice or recommendations on how to keep stylesheets maintainable and scalable. It is very helpful in formatting and beautification as well as consistency with large projects._"
+community-rating: ":heavy_plus:"

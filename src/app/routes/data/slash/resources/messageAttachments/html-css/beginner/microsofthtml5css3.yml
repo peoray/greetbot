@@ -1,0 +1,10 @@
+resource-number: 5
+language: 'html-css'
+level: 'beginner'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "video"
+media-icon: ":cinema:"
+media-link: "<https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207|HTML5 & CSS3 Fundamentals: Development for Absolute Beginners>"
+media-desc: "*Microsoft Visual Academy* _A 21-episode video course for absolute beginners, where you can follow along and code your very first website with HTML & CSS._"
+community-rating: ":heavy_plus:"

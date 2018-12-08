@@ -1,0 +1,10 @@
+resource-number: 3
+language: 'html-css'
+level: 'intermediate'
+media-cost: "$0"
+media-cost-desc: "FREE"
+media-type: "tutorial"
+media-icon: ":school_satchel:"
+media-link: "<http://learnlayout.com/|Learn CSS Layout>"
+media-desc: "_Simple, easy to read 19-page tutorial on CSS layouts that dives into topics such as positioning within the box model, media queries, flexbox, etc. It’s also available in several different languages other than English._"
+community-rating: ":heavy_plus:"
